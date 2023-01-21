@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-18T19:09:49 IST" name="Default suite" finished-at="2023-01-18T19:10:09 IST" duration-ms="19656">
+    <groups>
+    </groups>
+    <test started-at="2023-01-18T19:09:49 IST" name="Default test" finished-at="2023-01-18T19:10:09 IST" duration-ms="19656">
+      <class name="com.gsk.TestScripts.OrangeHRMTestScripts">
+        <test-method is-config="true" signature="setUpSuiteDetails(org.testng.ITestContext)[pri:0, instance:com.gsk.TestScripts.OrangeHRMTestScripts@235834f2]" started-at="2023-01-18T19:09:49 IST" name="setUpSuiteDetails" finished-at="2023-01-18T19:09:49 IST" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@42373389]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpSuiteDetails -->
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:com.gsk.TestScripts.OrangeHRMTestScripts@235834f2]" started-at="2023-01-18T19:09:49 IST" name="BeforeClass" finished-at="2023-01-18T19:09:52 IST" duration-ms="3014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="captureDesc(java.lang.reflect.Method)[pri:0, instance:com.gsk.TestScripts.OrangeHRMTestScripts@235834f2]" started-at="2023-01-18T19:09:52 IST" name="captureDesc" finished-at="2023-01-18T19:09:52 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.gsk.TestScripts.OrangeHRMTestScripts.login() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureDesc -->
+        <test-method signature="login()[pri:0, instance:com.gsk.TestScripts.OrangeHRMTestScripts@235834f2]" started-at="2023-01-18T19:09:52 IST" name="login" description="Login The OrangaHRM Application" finished-at="2023-01-18T19:10:09 IST" duration-ms="16608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.gsk.TestScripts.OrangeHRMTestScripts@235834f2]" started-at="2023-01-18T19:10:09 IST" name="afterClass" finished-at="2023-01-18T19:10:09 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.gsk.TestScripts.OrangeHRMTestScripts@235834f2]" started-at="2023-01-18T19:10:09 IST" name="afterSuite" finished-at="2023-01-18T19:10:09 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.gsk.TestScripts.OrangeHRMTestScripts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
